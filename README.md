@@ -11,6 +11,7 @@
   
 ### 💼 Main Projects:
 
+- [ListenUp](https://github.com/MVAPereira/listenUp), a PHP project for language learning through listening practice.
 - [Sortit](https://github.com/MVAPereira/sortit), a Google Chrome extension for displaying the GitHub PR page in an order other than the standard alphabetical one.
 - [Portfolio](https://github.com/MVAPereira/portfolio), a console-like terminal built with pure JavaScript, HTML, and CSS.
 
