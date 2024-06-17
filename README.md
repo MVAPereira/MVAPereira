@@ -13,7 +13,7 @@
 
 - [ListenUp](https://github.com/MVAPereira/listenUp), a PHP project for language learning through listening practice.
 - [Sortit](https://github.com/MVAPereira/sortit), a Google Chrome extension for displaying the GitHub PR page in an order other than the standard alphabetical one.
-- [Portfolio](https://github.com/MVAPereira/portfolio), a console-like terminal built with pure JavaScript, HTML, and CSS.
+- [RecipePost](https://github.com/MVAPereira/recipePost), a PHP project to create images of recipes to share on social networks.
 
 ### ☎️ Contact me:
 - 🔷 [LinkedIn](https://www.linkedin.com/in/marcos-vin%C3%ADcius-alves-pereira-bb6230215)
